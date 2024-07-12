@@ -1,6 +1,5 @@
-# NeoPage
-
-NeoPage es una landing page moderna y elegante que utiliza el estilo neomorfismo para ofrecer una experiencia visual única. Este proyecto está construido con React y Chakra UI, y está diseñado para ser fácilmente personalizable y extensible.
+## Novac
+Novac es una landing page moderna y elegante que emplea el estilo neomorfismo para ofrecer una experiencia visual única. Este proyecto está construido con React y Chakra UI, diseñado para ser fácilmente personalizable y extensible.
 
 ## Características
 
