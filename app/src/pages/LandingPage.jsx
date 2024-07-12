@@ -122,7 +122,7 @@ const Navbar = () => {
       <Flex justify="space-between" align="center">
         <IconButton icon={<FaSearch />} aria-label="Search" variant="ghost" {...neumorphismStyle} />
         <Text sx={logoStyle}>
-          Logo
+        Novac
         </Text>
         <Flex>
           <IconButton icon={<FaUser />} aria-label="User" variant="ghost" mx={2} {...neumorphismStyle} />
